@@ -103,7 +103,7 @@ MainWindow::MainWindow(QWidget *parent)
     tempInput2->SetInputNumber(1);
     tempInput3->SetInputNumber(2);
     tempInput1->SetSensorDIO(0);
-    tempInput2->SetSensorDIO(11);
+    tempInput2->SetSensorDIO(1);
     tempInput3->SetSensorDIO(12);
 
     tempInput1->setWindowFlags(Qt::Widget);
@@ -131,8 +131,8 @@ MainWindow::MainWindow(QWidget *parent)
 
     tempOutput1->SetOutputNumber(0);
     tempOutput2->SetOutputNumber(1);
-    tempOutput1->SetSensorDIO(1);
-    tempOutput2->SetSensorDIO(2);
+    tempOutput1->SetSensorDIO(2);
+    tempOutput2->SetSensorDIO(3);
 
     tempOutput1->setWindowFlags(Qt::Widget);
     tempOutput2->setWindowFlags(Qt::Widget);
