@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ChickChick
+Type=Application
+Exec=/home/sts/바탕화면/ChickChick_Eng/build/ChickChick
+Terminal=false
+Icon=/home/sts/바탕화면/ChickChick_Eng/build/ICON/ChickChick120.png
+Comment=Chicken Solution
+NoDisplay=false
+Name[en]=ChickChick
