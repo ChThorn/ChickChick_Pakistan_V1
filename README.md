@@ -1,4 +1,4 @@
-## This is the control designed for Chicken Robot
+## :hammer:This is the control designed for Chicken Robot
 
 To run this code, you first navigate to the directory where the code is saved and then run the following command:
 
