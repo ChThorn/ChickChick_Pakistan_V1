@@ -1,5 +1,7 @@
 ## :hammer:This is the control designed for Chicken Robot
 
+<h2>:collision:Warning</h2> Before running this code, make sure the SQLite Studio is already installed in your system. If not, you can download it from this link: https://sqlitestudio.pl/ for timer adjustment based on user desired.
+
 To run this code, you first navigate to the directory where the code is saved and then run the following command:
 
 - First to give the permision file to the system by typing as:
