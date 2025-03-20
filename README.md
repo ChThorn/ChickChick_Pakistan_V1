@@ -56,3 +56,7 @@ chmod +x launch_app_VDS.sh
 ```bash
 ./launch_app_VDS.sh
 ```
+- If you want to uninstall or delete the above executable app you installed, you can run the following command:
+```bash
+rm ~/.local/share/applications/ChickChick.desktop
+```
