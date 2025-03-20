@@ -45,7 +45,7 @@ To run this code, you first navigate to the directory where the code is saved an
  sudo apt install git
 ```
 ```bash
- git clone <repository_url>
+ git clone https://github.com/ChThorn/ChickChick_Pakistan_V1.git
 ```
 ```bash
  chmod +x launch_app_VDS.sh
