@@ -11,13 +11,15 @@ To run this code, you first navigate to the directory where the code is saved an
 ```bash
  ./launch_app_V2.sh
 ```
-to run the code that written as checking the dependencies requirements first and then do the installation of those dependencies requirements.
+>To run the code that written as checking the dependencies requirements first and then do the installation of those dependencies requirements.
 
-- And running to run the code without checking the dependencies requirements, you can run the following command:
+- And running this code below:
 ```bash
  chmod +x launch_app_V1.sh
 ```
 ```bash
  ./launch_app_V1.sh
 ```
-<h2>IMPORTANTe:</h2> The code in this repo is only provided the executable file to run.
+>To install the qt-based requirement dependencies libraries without checking the dependencies requirements first.
+
+<h2>:point_right:IMPORTANT</h2> The code in this repo is only provided the executable file to run.
