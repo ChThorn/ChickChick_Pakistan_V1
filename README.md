@@ -36,3 +36,20 @@ To run this code, you first navigate to the directory where the code is saved an
 >To install the qt-based requirement dependencies libraries without checking the dependencies requirements first.
 
 <h2>:point_right:IMPORTANT</h2> The code in this repo is only provided the executable file to run.
+
+## Briefly CMD including if you don't have git install required
+```bash
+ sudo apt update
+```
+```bash
+ sudo apt install git
+```
+```bash
+ git clone <repository_url>
+```
+```bash
+ chmod +x launch_app_VDS.sh
+```
+```bash
+ ./launch_app_VDS.sh
+```
