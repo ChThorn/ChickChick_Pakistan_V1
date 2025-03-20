@@ -6,32 +6,32 @@ To run this code, you first navigate to the directory where the code is saved an
 
 - First to give the permision file to the system by typing as:
 ```bash
- chmod +x launch_app_V2.sh
+chmod +x launch_app_V2.sh
 ```
 
 **Or using this**
 
 ```bash
- chmod +x launch_app_VDS.sh
+chmod +x launch_app_VDS.sh
 ```
 - Then to run the code by typing as:
 
 ```bash
- ./launch_app_V2.sh
+./launch_app_V2.sh
 ```
 **Or using this code in case you are using the ```chmod +x launch_app_VDS.sh```**
 
 ```bash
- ./launch_app_VDS.sh
+./launch_app_VDS.sh
 ```
 >To run the code that written as checking the dependencies requirements first and then do the installation of those dependencies requirements.
 
 - And running this code below:
 ```bash
- chmod +x launch_app_V1.sh
+chmod +x launch_app_V1.sh
 ```
 ```bash
- ./launch_app_V1.sh
+./launch_app_V1.sh
 ```
 >To install the qt-based requirement dependencies libraries without checking the dependencies requirements first.
 
@@ -39,17 +39,20 @@ To run this code, you first navigate to the directory where the code is saved an
 
 ## :bookmark_tabs:Briefly CMD including if you don't have git install required
 ```bash
- sudo apt update
+sudo apt update
 ```
 ```bash
- sudo apt install git
+sudo apt install git
 ```
 ```bash
- git clone https://github.com/ChThorn/ChickChick_Pakistan_V1.git
+git clone https://github.com/ChThorn/ChickChick_Pakistan_V1.git
 ```
 ```bash
- chmod +x launch_app_VDS.sh
+cd ChickChick_Pakistan_V1
 ```
 ```bash
- ./launch_app_VDS.sh
+chmod +x launch_app_VDS.sh
+```
+```bash
+./launch_app_VDS.sh
 ```
