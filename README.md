@@ -8,10 +8,21 @@ To run this code, you first navigate to the directory where the code is saved an
 ```bash
  chmod +x launch_app_V2.sh
 ```
+
+**Or using this**
+
+```bash
+ chmod +x launch_app_VDS.sh
+```
 - Then to run the code by typing as:
 
 ```bash
  ./launch_app_V2.sh
+```
+**Or using this code in case you are using the ```chmod +x launch_app_VDS.sh```**
+
+```bash
+ ./launch_app_VDS.sh
 ```
 >To run the code that written as checking the dependencies requirements first and then do the installation of those dependencies requirements.
 
