@@ -142,7 +142,7 @@ cat > "$HOME/.local/share/applications/ChickChick.desktop" << EOF
 [Desktop Entry]
 Name=ChickChick
 Type=Application
-Exec=$SCRIPT_DIR/launch_app.sh
+Exec=$SCRIPT_DIR/launch_app_V2.sh
 Terminal=false
 Icon=$SCRIPT_DIR/build/ICON/STS.png
 Comment=Chicken Solution
