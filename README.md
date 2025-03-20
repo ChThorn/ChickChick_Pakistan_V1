@@ -37,7 +37,7 @@ To run this code, you first navigate to the directory where the code is saved an
 
 <h2>:point_right:IMPORTANT</h2> The code in this repo is only provided the executable file to run.
 
-## Briefly CMD including if you don't have git install required
+## :bookmark_tabs:Briefly CMD including if you don't have git install required
 ```bash
  sudo apt update
 ```
